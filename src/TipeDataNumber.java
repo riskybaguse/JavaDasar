@@ -16,7 +16,7 @@ public class TipeDataNumber {
         int     hexaDecimal     = 0XFFFFF;
         int     binaryDecimal   = 0b101010100;
 
-        // KODE : UNDERSCORE (_)   
+        // KODE : UNDERSCORE (_)
         int balance = 1_000_000_000;
     }
 }
