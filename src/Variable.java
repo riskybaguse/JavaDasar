@@ -16,5 +16,10 @@ public class Variable {
         var address = "jateng";
         var age1 = 20;
         System.out.println(firstname+" "+lastname+" "+address+" "+age1);
+
+        final String applicationName = "Belajar Java";
+        // applicationName = "Belajar PHP" => akan error karena sudah FINAL
+
+        System.out.println(applicationName);
     }
 }
